@@ -19,3 +19,9 @@ The following guides illustrate how to use some features concretely:
 $ cd spring-cloud-config-server
 $ ../mvnw spring-boot:run
 ```
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
