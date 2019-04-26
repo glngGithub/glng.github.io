@@ -28,8 +28,8 @@ _You **can** combine them_
 
 图片
 ![这个括号里写的在图片加载失败时显示](图片网址)
-[这个括号里写的在图片加载成功时显示](./test1.png)
-![GitHub Logo](./test1.png)
+[这个括号里写的在图片加载成功时显示](./test.png)
+![GitHub Logo](./test.png)
 Format: ![Alt Text](url)
 链接
 http://github.com - automatic!
