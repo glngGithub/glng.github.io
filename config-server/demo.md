@@ -26,7 +26,9 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 图片
-![GitHub Logo](./test.png)
+![这个括号里写的在图片加载失败时显示](图片网址)
+[这个括号里写的在图片加载成功时显示](./test1.png)
+![GitHub Logo](./test1.png)
 Format: ![Alt Text](url)
 链接
 http://github.com - automatic!
